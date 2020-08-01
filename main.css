@@ -1,0 +1,12 @@
+.box{
+	top:50%;
+	width: 300px;
+	height: 400px;
+	background-color:#FFFFFF;
+	border: 2px solid #7e7e7e;
+	padding: 30px 20px 30px 20px;
+	position: absolute;
+	left:50%;
+	margin-left: -150px;
+	margin-top: -230px;
+}

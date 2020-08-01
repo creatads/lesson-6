@@ -1,0 +1,16 @@
+h1,h2,h3{
+  text-align:center;
+  border:1px solid #000;
+}
+.text-b{
+  font-weight:900;
+}
+.text-c{
+  font-italic:cursive;
+}
+.text-d{
+  text-decoration:underline;
+}
+.text-s{
+  text-decoration:line-through;
+}
